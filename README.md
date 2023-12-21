@@ -1,5 +1,5 @@
 Hello there! 👋 
-I am a Ph.D. candidate in my sixth-year in our Dept. of Physics.  I am studying statistical models for the dynamics of spiral defect chaos as it emerges from simulations of pathophysiological cardiac arrhythmia.  I also study Cognitive Neurophysics using electrophysiological recordings from the hippocampus of germ-free marmosets.
+I am a physicist.  I am studying statistical models for the dynamics of spiral defect chaos as it emerges from simulations of pathophysiological cardiac arrhythmia.  I also study cognitive neurophysics using electrophysiological recordings from the hippocampus of germ-free marmosets.
 
 
 <!---
